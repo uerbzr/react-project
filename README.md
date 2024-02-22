@@ -1,8 +1,11 @@
-# React + Vite
+# React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Components with State
 
-Currently, two official plugins are available:
+### Car Component
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Has state to store which car has been clicked
+
+### Counter Component
+
+Stores state of a counter value that can be incremented/decremented
